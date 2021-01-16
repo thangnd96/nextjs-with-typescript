@@ -1,5 +1,5 @@
 <p align="center" style="text-align: center">
-  <a href="https://playcarcenter.ndthang996.now.sh/" rel="noopener" target="_blank"><img width="150" src="./public/static/logo.png" alt="PlayCarCenter logo"></a>
+  <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="128">
 </p>
 
 <h1 align="center" style="text-align: center">NextJS With Typescript</h1>
